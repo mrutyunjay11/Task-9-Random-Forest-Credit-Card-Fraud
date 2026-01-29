@@ -10,6 +10,8 @@ To detect fraudulent credit card transactions using Random Forest while handling
 ## Dataset
 Credit Card Fraud Dataset (Kaggle)  
 Stored locally in the repository under the `Database/` folder.
+And if you want it so you can download it from this link because it is bigger then github limit
+https://drive.google.com/drive/folders/1b5NBytkHOCNC1J_Qwwb7Q3ow7IykJLuV?usp=share_link
 
 ---
 
